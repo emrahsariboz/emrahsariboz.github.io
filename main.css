@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
 .author__urls.social-icons i, .author__urls.social-icons .svg-inline--fa, .page__footer-follow .social-icons i, .page__footer-follow .social-icons .svg-inline--fa {
     color: inherit;
 }
@@ -415,7 +418,7 @@ a:focus, button:focus {
 }
 html {
     box-sizing: border-box;
-    background-color: #116466;
+    background-color: #208df3;
     font-size: 16px;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%}
@@ -1606,7 +1609,7 @@ tr, td, th {
     -ms-flex-align: center;
     align-items: center;
     min-height: 2em;
-    background: #116466;
+    background: #208df3;
 }
 .greedy-nav a {
     display: block;
