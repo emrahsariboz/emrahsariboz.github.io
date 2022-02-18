@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../../Go/snipped_app"
+		},
+		{
+			"path": "../../Go/microservices"
+		},
+		{
+			"path": "../../Go/blockchain-restapi"
+		},
+		{
+			"path": "../../Go/logging"
+		},
+		{
+			"path": "../../Go/learn-with-test"
+		},
+		{
+			"path": "../../Go/microservice-ecom"
+		},
+		{
+			"path": "../../Go/website-test"
+		},
+		{
+			"path": "../../Blokchain-python"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website-test"
+	}
+}
